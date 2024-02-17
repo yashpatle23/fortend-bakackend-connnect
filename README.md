@@ -13,7 +13,7 @@ To run this project
   npm run start
 ```
 
-To run with out use of dist vite first delete the dist folder
+To run with out use of dist vite first delete the dist folder in backend 
 ``` backend console
     cd backend
     npm run start
